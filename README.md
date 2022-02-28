@@ -6,6 +6,8 @@ I am really intrested to learn new things.
 
 
 My Skills🔵
-PYTHON 
-LEARNING WEB DEV.
+Python, 
+learning web devlopment 
+
+
 
